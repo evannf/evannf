@@ -1,4 +1,12 @@
-### Hi there 👋
+### Howdy! 🤠 
+
+My name is Evann Fries. I'm a 28yo aspiring programmer, determined to create a new careeer.
+
+Currently grinding my way through a full-stack bootcamp 🚀 
+Leaning HTML🖥, CSS🎨, JavaScript📝, and Python🐍  
+
+You can email me at this adress:
+Evann.fries@yahoo.com
 
 <!--
 **evannf/evannf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
