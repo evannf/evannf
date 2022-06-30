@@ -1,6 +1,8 @@
 ### Howdy! 🤠 
 
 My name is Evann Fries. I'm a 28yo aspiring programmer, determined to create a new careeer.
+![IMG_9431 jpg HEIC](https://user-images.githubusercontent.com/105689542/176568103-d627a7ae-3859-4a2c-8946-8bee569744ab.jpg)
+
 
 Currently grinding my way through a full-stack bootcamp 🚀 
 Leaning HTML🖥, CSS🎨, JavaScript📝, and Python🐍  
